@@ -5,8 +5,8 @@ body {
 }
 
 .jumbotron{
-    background: linear-gradient(to right, red , yellow);
-    border-radius: 0px!important;
+    background: linear-gradient(to blue, red , yellow);
+    border-radius: 10000px!important;
 }
 
 .searchForm{
