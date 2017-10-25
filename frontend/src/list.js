@@ -2,7 +2,7 @@
 
 const list = [
   {
-    title: 'google',
+    title: 'google news',
     url: 'http://google.com',
     author: 'Ryan',
     num_comments: 100,
@@ -10,7 +10,7 @@ const list = [
     objectID: 1
   },
   {
-    title: 'facebook',
+    title: 'facebook news',
     url: 'http://facebook.com',
     author: 'Zen',
     num_comments: 50,
@@ -18,7 +18,7 @@ const list = [
     objectID: 2
   },
   {
-    title: 'yahoo',
+    title: 'yahoo news',
     url: 'http://yahoo.com',
     author: 'Ninja',
     num_comments: 10,
